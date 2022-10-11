@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 import unittest
-from queue import Queue
+from myqueue import Queue
 
 class QueueTests(unittest.TestCase):
     """
